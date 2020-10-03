@@ -746,6 +746,17 @@ a {
     padding: 2rem;
   }
 }
+.cid-scmZ1M6KOp {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
+.cid-scmZ1M6KOp .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
 .cid-s48vnjULo4 {
   padding-top: 2rem;
   padding-bottom: 2rem;
@@ -3981,6 +3992,11 @@ a {
   color: #353535;
   text-align: left;
 }
+.cid-sckH2NGUsT {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #ffffff;
+}
 .cid-sbJSH9PmAp {
   padding-top: 6rem;
   padding-bottom: 6rem;
@@ -4429,6 +4445,11 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-scka0hUGSE {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #bed3f9;
 }
 .cid-sbQqWZF2hk {
   padding-top: 6rem;
@@ -5299,10 +5320,35 @@ a {
     left: -1rem;
   }
 }
+.cid-scjFe0Aemh {
+  background-image: url("../../../assets/images/background15.jpg");
+}
+.cid-scjFe0Aemh .social-row .soc-item {
+  display: inline-block;
+  text-align: center;
+  margin-bottom: 1rem;
+  margin-right: .7rem;
+}
+.cid-scjFe0Aemh .social-row .soc-item .mbr-iconfont {
+  font-size: 32px;
+  border-radius: 50%;
+  padding: 0.6rem;
+  border: 2px solid #232323;
+  transition: all 0.3s;
+  color: #232323;
+}
+.cid-scjFe0Aemh .social-row .soc-item .mbr-iconfont:hover {
+  background-color: #232323;
+  color: #ffffff;
+}
 .cid-sc6c6Eac2X {
   padding-top: 6rem;
   padding-bottom: 0rem;
   background-color: #fcb7b7;
+}
+.cid-sc6c6Eac2X .mbr-text,
+.cid-sc6c6Eac2X .link {
+  color: #353535;
 }
 .cid-sc6dkYoPx5 {
   padding-top: 5rem;
@@ -5746,6 +5792,24 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-sckACjbXnS {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+  background-image: url("../../../assets/images/mbr-1920x1281.jpg");
+}
+.cid-sckACjbXnS .mbr-text,
+.cid-sckACjbXnS .mbr-section-btn {
+  color: #6592e6;
+  text-align: center;
+}
+.cid-sckACjbXnS .card-title,
+.cid-sckACjbXnS .card-box {
+  color: #ffffff;
+}
+.cid-sckACjbXnS .mbr-text,
+.cid-sckACjbXnS .link-wrap {
+  color: #ffffff;
 }
 .cid-sc63Zl1rCw {
   padding-top: 5rem;
@@ -6284,6 +6348,11 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-sckEoAr6gR {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #fcb7b7;
 }
 .cid-sc5ZSExEM8 {
   padding-top: 6rem;
